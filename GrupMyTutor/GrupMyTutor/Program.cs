@@ -6,7 +6,8 @@ namespace GrupMyTutor
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int johan = 0;
+            Console.WriteLine("Hello Johan!");
         }
     }
 }

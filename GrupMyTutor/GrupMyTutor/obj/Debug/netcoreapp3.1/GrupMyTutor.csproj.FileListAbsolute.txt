@@ -1,0 +1,12 @@
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/bin/Debug/netcoreapp3.1/GrupMyTutor.deps.json
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/bin/Debug/netcoreapp3.1/GrupMyTutor.runtimeconfig.json
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/bin/Debug/netcoreapp3.1/GrupMyTutor.runtimeconfig.dev.json
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/bin/Debug/netcoreapp3.1/GrupMyTutor.dll
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/bin/Debug/netcoreapp3.1/GrupMyTutor.pdb
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.csprojAssemblyReference.cache
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.AssemblyInfoInputs.cache
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.AssemblyInfo.cs
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.csproj.CoreCompileInputs.cache
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.dll
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.pdb
+/Users/johan/Projects/GrupMyTutor/GrupMyTutor/GrupMyTutor/obj/Debug/netcoreapp3.1/GrupMyTutor.genruntimeconfig.cache

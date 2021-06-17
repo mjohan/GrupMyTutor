@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9CB4F8B5-5DC6-4C94-B4C6-AF36BA6A5D41}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="GrupMyTutor/Program.cs">
     <Files>
-      <File FileName="GrupMyTutor/Program.cs" Line="1" Column="1" />
+      <File FileName="GrupMyTutor/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.GrupMyTutor FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GrupMyTutor PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
